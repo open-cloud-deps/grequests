@@ -1,4 +1,4 @@
-Source: python-grequests
+Source: grequests
 Section: python
 Priority: optional
 Maintainer: Zack Williams, University of Arizona <zdw@cs.arizona.edu>
