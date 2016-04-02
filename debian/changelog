@@ -1,0 +1,5 @@
+grequests (0.3.0-1) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Zack Williams <zdw@cs.arizona.edu>  Sat, 02 Apr 2016 00:36:03 +0000

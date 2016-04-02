@@ -1,0 +1,12 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: grequests
+Upstream-Contact: Kenneth Reitz <me@kennethreitz.com>
+Source: https://github.com/kennethreitz/grequests/
+
+Files:*
+License: BSD
+Copyright: 2012, Kenneth Reitz <me@kennethreitz.com>
+
+License: Apache-2.0
+ Found in `/usr/share/common-licenses/BSD`
+
